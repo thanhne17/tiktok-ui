@@ -8,12 +8,10 @@
 .container {
     width: var(--default-layout-width);
     min-height: 1000px;
-    background-color: aquamarine;
     display: flex;
 }
 
 .content {
     flex: 1;
-    background: #ddd;
     min-height: 1000px;
 }
